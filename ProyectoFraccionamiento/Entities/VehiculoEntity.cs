@@ -2,6 +2,7 @@ namespace ProyectoFraccionamiento.Entities
 {
     public class VehiculoEntity
     {
+        public int Id { get; set; }
         public string Marca { get; set; }=null!;
         public string Modelo { get; set;}=null!;
         public string Owner { get; set; }=null!;

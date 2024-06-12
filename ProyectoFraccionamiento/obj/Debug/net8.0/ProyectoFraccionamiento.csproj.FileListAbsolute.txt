@@ -134,3 +134,4 @@ C:\Users\gabri\OneDrive\Documentos\POOII\ProyectoFraccionamiento\ProyectoFraccio
 C:\Users\gabri\OneDrive\Documentos\POOII\ProyectoFraccionamiento\ProyectoFraccionamiento\obj\Debug\net8.0\ProyectoFraccionamiento.pdb
 C:\Users\gabri\OneDrive\Documentos\POOII\ProyectoFraccionamiento\ProyectoFraccionamiento\obj\Debug\net8.0\ProyectoFraccionamiento.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Documentos\POOII\ProyectoFraccionamiento\ProyectoFraccionamiento\obj\Debug\net8.0\ref\ProyectoFraccionamiento.dll
+C:\Users\gabri\OneDrive\Documentos\POOII\ProyectoFraccionamiento\ProyectoFraccionamiento\obj\Debug\net8.0\ProyectoFraccionamiento.sourcelink.json
