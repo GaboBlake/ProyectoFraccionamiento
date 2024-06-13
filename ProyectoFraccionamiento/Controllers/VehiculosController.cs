@@ -48,5 +48,10 @@ public class VehiculosController : Controller
     {
         return View();
     }
+
+    public IActionResult AddVehiculos()
+    {
+        return View();
+    }
 }
 
