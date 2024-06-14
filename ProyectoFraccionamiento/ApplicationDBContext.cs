@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Reflection;
 using Microsoft.EntityFrameworkCore;
 using ProyectoFraccionamiento.Entities;
@@ -17,6 +18,7 @@ namespace ProyectoFraccionamiento
         }
 
         public DbSet<VehiculoEntity> Vehiculos => Set<VehiculoEntity>();
+        public DbSet <VisitaEntity> Visitas => Set<VisitaEntity>();
 
     }
 }
