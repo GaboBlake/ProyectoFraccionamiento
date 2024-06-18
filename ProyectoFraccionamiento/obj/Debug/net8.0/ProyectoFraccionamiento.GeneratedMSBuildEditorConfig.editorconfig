@@ -54,6 +54,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9zXFZlaGljdWxvc0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/AddVisita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhc1xBZGRWaXNpdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/DeleteVisita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhc1xEZWxldGVWaXNpdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/EditVisita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhc1xFZGl0VmlzaXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/VisitasList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhc1xWaXNpdGFzTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
