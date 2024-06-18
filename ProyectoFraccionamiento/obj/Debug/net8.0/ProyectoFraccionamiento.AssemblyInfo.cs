@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoFraccionamiento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+942a868129749b44532022c05522cf83c7f08113")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b3e55662f462d01fb3f775833597ed88e884b1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoFraccionamiento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoFraccionamiento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
