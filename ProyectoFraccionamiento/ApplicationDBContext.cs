@@ -19,6 +19,7 @@ namespace ProyectoFraccionamiento
 
         public DbSet<VehiculoEntity> Vehiculos => Set<VehiculoEntity>();
         public DbSet <VisitaEntity> Visitas => Set<VisitaEntity>();
+        public DbSet <SocialAreaEntity> AreasSociales=> Set<SocialAreaEntity>();
 
     }
 }

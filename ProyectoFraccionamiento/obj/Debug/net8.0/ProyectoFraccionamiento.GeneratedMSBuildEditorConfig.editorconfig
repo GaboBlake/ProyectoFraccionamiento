@@ -9,75 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoFraccionamiento
 build_property.RootNamespace = ProyectoFraccionamiento
-build_property.ProjectDir = C:\Users\gabri\OneDrive\Documentos\POOII\ProyectoFraccionamiento\ProyectoFraccionamiento\
+build_property.ProjectDir = C:\Users\gabri\OneDrive\Escritorio\POOII\ProyectoFraccionamiento\ProyectoFraccionamiento\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gabri\OneDrive\Documentos\POOII\ProyectoFraccionamiento\ProyectoFraccionamiento
+build_property.MSBuildProjectDirectory = C:\Users\gabri\OneDrive\Escritorio\POOII\ProyectoFraccionamiento\ProyectoFraccionamiento
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Home/Index.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Home/Privacy.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Shared/Error.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/SocialArea/SocialAreaList.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/SocialArea/AddSocialArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsQXJlYVxBZGRTb2NpYWxBcmVhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/SocialArea/EditSocialArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsQXJlYVxFZGl0U29jaWFsQXJlYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/SocialArea/SocialAreaList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsQXJlYVxTb2NpYWxBcmVhTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Vehiculos/AddVehiculos.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Vehiculos/AddVehiculos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9zXEFkZFZlaGljdWxvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Vehiculos/DeleteVehiculos.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Vehiculos/DeleteVehiculos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9zXERlbGV0ZVZlaGljdWxvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Vehiculos/EditVehiculos.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Vehiculos/EditVehiculos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9zXEVkaXRWZWhpY3Vsb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Vehiculos/VehiculosList.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Vehiculos/VehiculosList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9zXFZlaGljdWxvc0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/AddVisita.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/AddVisita.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhc1xBZGRWaXNpdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/DeleteVisita.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/DeleteVisita.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhc1xEZWxldGVWaXNpdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/EditVisita.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/EditVisita.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhc1xFZGl0VmlzaXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/VisitasList.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Visitas/VisitasList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhc1xWaXNpdGFzTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/_ViewImports.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/_ViewStart.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documentos/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Shared/_Layout.cshtml]
+[C:/Users/gabri/OneDrive/Escritorio/POOII/ProyectoFraccionamiento/ProyectoFraccionamiento/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dqbr441ci5
